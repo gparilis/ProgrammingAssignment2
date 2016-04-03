@@ -1,7 +1,3 @@
-#caching the inversion of a matrix
-#1. set the value of the matrix
-#2. get the valyee of the matrix
-
 
 #a function to cache a matrix, retrieve it, and invert it
 makeCacheMatrix <- function(x = numeric()) {
